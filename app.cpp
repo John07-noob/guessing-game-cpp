@@ -1,3 +1,7 @@
+/*
+Author	: John07-noob
+Date	: Nov/10/2020
+*/
 #include <iostream>
 
 int main() {
